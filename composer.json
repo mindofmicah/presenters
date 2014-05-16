@@ -1,0 +1,24 @@
+{
+    "name": "mindofmicah/presenter",
+    "description": "Simple view presenters",
+    "authors": [
+        {
+            "name": "micah",
+            "email": "micah@whamdonk.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "require-dev" : {
+        "phpspec/phpspec" : "2.*",
+"mockery/mockery":"0.9.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Mindofmicah\\Presenter": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

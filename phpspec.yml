@@ -1,0 +1,6 @@
+suites:
+    mindofmicah_suite:
+        namespace: Mindofmicah
+        src_path: src
+        spec_prefix: spec
+
